@@ -11,5 +11,5 @@ Demonstra como declarar e tipar variáveis em TypeScript. Criando variáveis par
 ### 2. Calculadora de Média (calculadora.ts)
 Calcula a média de duas notas inseridas pelo usuário. Ele utiliza a biblioteca prompt-sync para capturar as notas via linha de comando e, com base na média, informa se o aluno foi aprovado (média maior ou igual a 7) ou reprovado.
 
-### Conversor de Moedas (conversor.ts)
+### 3. Conversor de Moedas (conversor.ts)
 Converte um valor em Reais para Dólares. Ele solicita a cotação atual do Dólar e o valor a ser convertido, realizando o cálculo e exibindo o resultado formatado no console.
